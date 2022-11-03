@@ -1,5 +1,5 @@
 # Home-Automation-System
-An application for smart devices.
+An application for smart devices. Currently in design & feedback stages.
 
 ## Project Timeline
  - Short description of the problem, the corresponding requirements (users, needs, context) as well as the conceptual model of the design including possible metaphors. 
